@@ -102,18 +102,6 @@ padding: 20px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-.card-images {
-  display: flex;
-  gap: 10px;
-}
-
-.card-images img {
-  width: 50%;
-  height: 140px;
-  object-fit: cover;
-  border-radius: 6px;
-}
-
 footer {
   background: #0a1f44;
   color: white;
